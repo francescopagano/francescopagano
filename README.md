@@ -38,37 +38,12 @@ Benchmarked two clustering algorithms for large datasets (BFR and CURE), testing
 
 ---
 
-## 🎓 Education
-
-**MSc in Statistics**  
-📍 Università degli Studi di Padova  
-*2023 – Present*  
-> Machine Learning, High-Dimensional Stats, Economic & Social Data Models
-
-**Erasmus Programme**  
-📍 ISCTE - Instituto Universitário de Lisboa  
-*Feb 2025 – Jun 2025*  
-> Deep Learning, Python for Economics, Computing & Business Applications
-
-**BSc in Business Statistics**  
-📍 Università degli Studi di Padova  
-*2019 – 2023*
-
 ## 🛠 Skills
 
 - **Languages:** Python, R, SQL, SPSS  
 - **Libraries/Tools:** Scikit-learn, Keras, Pandas, ggplot2, Jupyter, Looker  
 - **Soft Skills:** Problem Solving, Communication, Teamwork, Adaptability  
 - **Languages:** Italian 🇮🇹 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (beginner)
-
----
-
-## 🎯 Interests
-
-Outside of work and study, I’m into:
-- 🏉 Rugby & 🧗‍♂️ Bouldering  
-- 🎧 Podcasts & 🎞 Documentaries  
-- 📸 Photography & Visual Composition
 
 ---
 
