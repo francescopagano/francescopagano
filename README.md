@@ -24,7 +24,7 @@ During my studies, I’ve worked with various datasets—ranging from commodity 
 
 ## 🧩 Projects
 
-### 🔹 [Aluminum Price Forecasting]
+### 🔹 Aluminum Price Forecasting
 **Keywords:** Time Series, Regression, Business Forecasting  
 Analyzed and forecasted the trend of aluminum prices (2021–2023) using time series decomposition, ARIMA models, and ML regressors.  
 
