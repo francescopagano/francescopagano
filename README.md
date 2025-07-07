@@ -14,8 +14,8 @@
 ## 🧠 About Me
 
 I'm Francesco, a Master’s student in Statistics passionate about using data to solve real-world problems in business, finance, and healthcare.  
-I enjoy working on projects involving **machine learning**, **data mining**, **high-dimensional data**, and **statistical modeling**.  
-During my studies, I’ve worked with various datasets—ranging from commodity prices to medical imaging—and I’m always open to collaborating on meaningful data-driven projects.
+I enjoy working on projects involving **deep learning**, **machine learning**, **data mining**, **high-dimensional data**, and **statistical modeling**.  
+During my studies, I’ve worked with various datasets ranging from commodity prices to medical imaging—and I’m always open to collaborating on meaningful data-driven projects.
 
 - 🌍 Erasmus Student at ISCTE Lisbon (2025)
 
