@@ -17,10 +17,7 @@ I'm Francesco, a Master’s student in Statistics passionate about using data to
 I enjoy working on projects involving **machine learning**, **data mining**, **high-dimensional data**, and **statistical modeling**.  
 During my studies, I’ve worked with various datasets—ranging from commodity prices to medical imaging—and I’m always open to collaborating on meaningful data-driven projects.
 
-- 💻 Experienced in **Python**, **R**, **SQL**, **SPSS**
-- 🧰 Tools: `scikit-learn`, `pandas`, `keras`, `ggplot2`, `Jupyter`, `Looker`
 - 🌍 Erasmus Student at ISCTE Lisbon (2025)
-- 📚 Currently learning: Deep Learning, Advanced ML, and Cloud-based Analytics
 
 ## 🛠 Skills
 
