@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="surf.JPEG" alt="Francesco Pagano" width="1000" style="border-radius: 50%; object-fit: cover;" height = "400">
+  <img src="surf.JPEG" alt="Francesco Pagano" width="1000" style="border-radius: 50%; object-fit: cover;" height = "500">
 </p>
 
 # 👋 Hi, I'm Francesco
