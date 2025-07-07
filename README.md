@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_8123.JPEG" alt="Francesco Pagano" width="150" style="border-radius:50%">
+  <img src="IMG_8123.JPEG" alt="Francesco Pagano" width="500" style="border-radius:50%">
 </p>
 
 # 👋 Hi, I'm Francesco Pagano
