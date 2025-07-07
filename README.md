@@ -22,36 +22,12 @@ During my studies, I’ve worked with various datasets—ranging from commodity 
 
 ---
 
-## 🧩 Projects
-
-### 🔹 Aluminum Price Forecasting
-**Keywords:** Time Series, Regression, Business Forecasting  
-Analyzed and forecasted the trend of aluminum prices (2021–2023) using time series decomposition, ARIMA models, and ML regressors.  
-
-### 🔹 [Gastrointestinal Lesion Classification](https://github.com/francescopagano)  
-**Keywords:** Classification, High-Dimensional Data, Feature Selection  
-Built and evaluated classifiers on a high-dimensional medical dataset. Focused on dimensionality reduction and performance under sparse signals.  
-
-### 🔹 [Clustering Large Datasets: BFR vs CURE](https://github.com/francescopagano)  
-**Keywords:** Big Data, Clustering, Distance Metrics  
-Benchmarked two clustering algorithms for large datasets (BFR and CURE), testing scalability, robustness, and clustering accuracy.
-
----
-
 ## 🛠 Skills
 
 - **Languages:** Python, R, SQL, SPSS  
 - **Libraries/Tools:** Scikit-learn, Keras, Pandas, ggplot2, Jupyter, Looker  
 - **Soft Skills:** Problem Solving, Communication, Teamwork, Adaptability  
 - **Languages:** Italian 🇮🇹 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (beginner)
-
----
-
-## 📬 Let's Connect
-
-📧 francesco.pietro.pagano@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/francescopagano24/)  
-💻 [GitHub](https://github.com/francescopagano)
 
 ---
 
