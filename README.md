@@ -4,8 +4,10 @@
 
 # 👋 Hi, I'm Francesco
 
-🎓 MSc Statistics Student | 📊 Aspiring Data Scientist | 📍 Based in Padova, Italy  
-🔗 [LinkedIn](https://www.linkedin.com/in/francescopagano24/) • 🌐 [Personal GitHub](https://github.com/francescopagano)
+🎓 MSc Statistics Student | 📍 Padova, Italy  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/francescopagano24/) 
+🌐 [Personal GitHub](https://github.com/francescopagano)
 
 ---
 
@@ -19,8 +21,6 @@ During my studies, I’ve worked with various datasets—ranging from commodity 
 - 🧰 Tools: `scikit-learn`, `pandas`, `keras`, `ggplot2`, `Jupyter`, `Looker`
 - 🌍 Erasmus Student at ISCTE Lisbon (2025)
 - 📚 Currently learning: Deep Learning, Advanced ML, and Cloud-based Analytics
-
----
 
 ## 🛠 Skills
 
