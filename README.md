@@ -2,7 +2,7 @@
   <img src="IMG_1268.JPEG" alt="Francesco Pagano" width="1000" style="border-radius: 50%; object-fit: cover;" height = "400">
 </p>
 
-# 👋 Hi, I'm Francesco Pagano
+# 👋 Hi, I'm Francesco
 
 🎓 MSc Statistics Student | 📊 Aspiring Data Scientist | 📍 Based in Padova, Italy  
 🔗 [LinkedIn](https://www.linkedin.com/in/francescopagano24/) • 🌐 [Personal GitHub](https://github.com/francescopagano)
