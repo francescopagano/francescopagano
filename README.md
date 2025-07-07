@@ -2,9 +2,6 @@
   <img src="profile.jpg" alt="Francesco Pagano" width="150" style="border-radius:50%">
 </p>
 
-<h1 align="center">Hi, I'm Francesco Pagano</h1>
-<p align="center">MSc Statistics Student | Aspiring Data Scientist</p>
-
 # 👋 Hi, I'm Francesco Pagano
 
 🎓 MSc Statistics Student | 📊 Aspiring Data Scientist | 📍 Based in Padova, Italy  
